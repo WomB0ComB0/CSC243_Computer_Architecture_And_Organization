@@ -2,4 +2,8 @@
 for i in {1..14}; do
     mkdir week-$i
     touch ./week-$i/README.md
+    mkdir ./week-$i/classwork
+    touch ./week-$i/classwork/.gitkeep
+    mkdir ./week-$i/homework
+    touch ./week-$i/homework/.gitkeep
 done
