@@ -1,0 +1,104 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Executable files
+*.exe
+*.out
+*.elf
+
+# Debugger files
+*.dSYM/
+*.stackdump
+*.core
+core
+
+# Assembly listing files
+*.lst
+*.map
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.sav
+
+# Build directories (common names)
+build/
+bin/
+out/
+Debug/
+Release/
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+*.launch
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Linux specific
+*.pid
+*.lock
+
+# Backup and autosave files
+*~
+# Example: hello.asm~
+*.s~
+*.bak
+*.old
+
+# Dependency file (GCC/Clang)
+*.d
+
+# NASM macros listing
+*.lst
+
+# Makefile-generated files
+Makefile
+makefile
+*.mk
+*.deps
+*.dep
+*.d
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+
+# Archive files
+*.tar
+*.gz
+*.zip
+*.7z
+*.bz2
+*.xz
+
+# Symbol and debug info files
+*.sym
+*.dbg
+
+# Coverage reports
+*.gcda
+*.gcno
+*.gcov
